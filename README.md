@@ -16,6 +16,10 @@ My hobbies include reading (biographies and cheesy horror/thriller stephen king 
 * [NL-FuN](https://github.com/alt113/NL-FuN.git): N-Layered FeUdal Networks based on FeUdal Networks adapted to suit PySC2 observations
 * [NGS](https://github.com/traffic-control-fyp-aub/ns3-gym.git): The playground for reinforcement learning in networking research with SUMO integration.
 
+### Organizations
+
+I am a member of the [Flow](https://flow-project.github.io) organization which is a deep reinforcement learning framework for mixed autonomy traffic developed by UC Berkeley. I am also a member and administrator at [Traffic Control FYP AUB](https://github.com/traffic-control-fyp-aub).
+
 ### Adresses
 
 You can email me at any of the following addresses. If you want a quick reply start with the email at the top of the list :)
