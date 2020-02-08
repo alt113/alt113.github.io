@@ -1,36 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/alt113/alt113.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Who am I?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Rayyan Nasr. I am a Lebanese Canadian undergraduate student at the [American University of Beirut](https://aub.edu.lb). I am a senior student at AUB hoping to graduate with a Bachelor in Engineering degree in Computer and Communications Engineering. My focus is on all things software, especially making them smart with a little machine learning.
 
-### Markdown
+My hobbies include reading (biographies and cheesy horror/thriller stephen king books), going to the gym, and catching up on the latest Netflix has to offer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What have I or currently am working on?
 
-```markdown
-Syntax highlighted code block
+* [votingApp](https://github.com/alt113/votingApp.git): Voting app deployable on Android system. This application is a class project for EECE 451 (Mobile Networks and Application) in the American University of Beirut.
+* [h-baselines](https://github.com/alt113/h-baselines.git): A repository of high-performing hierarchical reinforcement learning models and algorithms.
+* [flow](https://github.com/flow-project/flow.git): Computational framework for reinforcement learning in traffic control
+* [Hierarchical-Actor-Critc-HAC-](https://github.com/alt113/Hierarchical-Actor-Critc-HAC-.git): This repository contains the code to implement the Hierarchical Actor-Critic (HAC) algorithm.
+* [Feudal-Networks](https://github.com/alt113/Feudal-Networks.git): Continuation of https://github.com/dmakian/feudal_networks
+* [NL-FuN](https://github.com/alt113/NL-FuN.git): N-Layered FeUdal Networks based on FeUdal Networks adapted to suit PySC2 observations
+* [NGS](https://github.com/traffic-control-fyp-aub/ns3-gym.git): The playground for reinforcement learning in networking research with SUMO integration.
 
-# Header 1
-## Header 2
-### Header 3
+### Adresses
 
-- Bulleted
-- List
+You can email me at any of the following addresses. If you want a quick reply start with the email at the top of the list :)
 
-1. Numbered
-2. List
+1. rrn13@mail.aub.edu
+2. developer.rayyan.nasr@gmail.com
+3. rayyan.nasr.leb@gmail.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alt113/alt113.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Otherwise if your just looking to chat feel free to follow me on Instagram: [@alt113](https://www.instagram.com/alt113/).
 
 ### Support or Contact
 
