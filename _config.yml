@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Welcome to my page!
 description: Feel free to bookmark this to keep an eye on my project updates :)
-logo: https://github.com/alt113/alt113.github.io/blob/master/cropped.png
+logo: ./cropped.png
