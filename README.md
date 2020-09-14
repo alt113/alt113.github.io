@@ -2,7 +2,7 @@
 
 ### Who am I?
 
-My name is Rayyan Nasr. I am a Lebanese Canadian undergraduate student at the [American University of Beirut](https://aub.edu.lb). I am a senior student at AUB hoping to graduate with a Bachelor in Engineering degree in Computer and Communications Engineering. My focus is on all things software, especially making them smart with a little machine learning.
+My name is Rayyan Nasr. I am a Lebanese Canadian computer engineer. I obtained my Bachelors in Engineering degree (BE) in Computer and Communications Engineering from the [American University of Beirut](https://aub.edu.lb). I am currently pursuing a Masters degree in Artificial Intelligence at [Boston University](https://www.bu.edu). My focus is on all things software, especially making them smart with a little machine learning.
 
 My hobbies include reading (biographies and cheesy horror/thriller stephen king books), going to the gym, and catching up on the latest Netflix has to offer.
 
@@ -24,9 +24,8 @@ I am a member of the [Flow](https://flow-project.github.io) organization which i
 
 You can email me at any of the following addresses. If you want a quick reply start with the email at the top of the list :)
 
-1. rrn13@mail.aub.edu
-2. developer.rayyan.nasr@gmail.com
-3. rayyan.nasr.leb@gmail.com
+1. developer.rayyan.nasr@gmail.com
+2. rnasr@bu.edu
 
 Otherwise if your just looking to chat feel free to follow me on Instagram: [@alt113](https://www.instagram.com/alt113/).
 
