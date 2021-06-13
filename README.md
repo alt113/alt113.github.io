@@ -25,10 +25,11 @@ I am a member of the [Flow](https://flow-project.github.io) organization which i
 
 ### Adresses
 
-You can email me at any of the following addresses. If you want a quick reply start with the email at the top of the list :)
+You can email me at any of the following addresses:
 
-1. developer.rayyan.nasr@gmail.com
-2. rayyan.nasr.leb@gmail.com
+```
+developer.rayyan.nasr@gmail.com
+```
 
 Otherwise if your just looking to chat feel free to follow me on Instagram: [@alt113](https://www.instagram.com/alt113/).
 
